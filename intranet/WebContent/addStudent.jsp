@@ -2,7 +2,6 @@
 <title>MRECW-ADMIN</title>
 </head>
 <body style="background-color: silver;">
-
 <table align="center" style="border:none"  width="500">
 <tr valign=top>
 <td style="border:none"><img src="images/clg.png" width="500" height="95" ></td>
