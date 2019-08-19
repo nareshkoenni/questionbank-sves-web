@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+   
+      <Resource name="jdbc/qbmysql" auth="Container"
+        type="javax.sql.DataSource" username="sa" password="Bvrith@2017"
+        driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+       url="jdbc:sqlserver://localhost:1433;instance=INTRANET1;DatabaseName=questionbank"
+        maxActive="100" maxIdle="10"/>  
+       
+ 
+</Context>
